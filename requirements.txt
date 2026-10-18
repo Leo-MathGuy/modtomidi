@@ -1,0 +1,5 @@
+audioop-lts==0.2.2
+mido==1.3.3
+nodmod==1.0.5
+packaging==26.3
+pydub==0.25.1
